@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
+ <head>
   <meta charset="UTF-8">
   <title>Exercício de CSS</title>
 
